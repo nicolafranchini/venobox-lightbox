@@ -1,3 +1,15 @@
+# ℹ️ NOTICE: Migration to VenoBox-WP / Migrazione a VenoBox-WP
+
+**[EN]** This repository was a fork used for my collaboration with [Neil Gee](https://github.com/neilgee/venobox) on the **VenoBox Lightbox** plugin. 
+
+As the author of the original [VenoBox JS script](https://github.com/nicolafranchini/VenoBox), I have now launched my own official WordPress integration: **VenoBox-WP**. This new plugin is fully updated to the latest version of the core script (Vanilla JS) and the most recent WordPress releases.
+
+While Neil’s plugin remains active and available, I will be focusing my future development efforts exclusively on the new repository.
+👉 **Official Repository:** [https://github.com/nicolafranchini/VenoBox-WP](https://github.com/nicolafranchini/VenoBox-WP)
+👉 **WordPress Plugin:** [https://wordpress.org/plugins/venobox/](https://wordpress.org/plugins/venobox/)
+
+---
+
 === VenoBox Lightbox ===
 
 Author: Neil Gowran
