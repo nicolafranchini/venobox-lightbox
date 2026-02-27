@@ -615,8 +615,10 @@
        current_index = Array.prototype.indexOf.call(items, el);
 
        if (items.length < 2) {
-           infinigall = false;
            numeratio = false;
+       }
+       if (items.length < 3) {
+           infinigall = false;
        }
 
        thenext = items[current_index + 1];
